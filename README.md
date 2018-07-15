@@ -1,1 +1,2 @@
-# project-01
+# demo-thingy
+lets learn how to do this
